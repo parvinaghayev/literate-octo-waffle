@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Your Name or Company",
+  "classifications": ["Web", "Clean Architecture"],
+  "identity": "AzSoftware.TemplateCleanArchitectureV2",
+  "name": "Clean Architecture API Template",
+  "shortName": "azcleanarch",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "TemplateCleanArchitectureV2",
+  "preferNameDirectory": true
+}
